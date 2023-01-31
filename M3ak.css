@@ -1,0 +1,10 @@
+body{
+    background-color: whitesmoke; 
+}
+
+.x {
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    border: black 10px solid;
+}
